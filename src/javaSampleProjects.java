@@ -22,7 +22,7 @@ public class javaSampleProjects {
 		int num2 = num%i;
 		if(num2== 0)
 		{
-			System.out.println(num2 + "Num is not Prime");
+			System.out.println(num2 + "Num is not Prime  ");
 			flag=1;
 			break;
 
