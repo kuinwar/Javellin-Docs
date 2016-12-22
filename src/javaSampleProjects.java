@@ -29,7 +29,7 @@ public class javaSampleProjects {
 		}
 		if(flag ==0) 
 		{
-			System.out.println(num2 + "Num is Prime");
+			System.out.println(num2 + "Num is Prime ");
 		}	
 
 }
